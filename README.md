@@ -1,0 +1,4 @@
+Giới thiệu
+Trong lĩnh vực tài chính, việc ra quyết định đầu tư dựa trên thông tin từ tin tức và các báo cáo kinh tế là một thách thức lớn. Thông tin không chỉ đa dạng mà còn có quy mô lớn, khiến cho việc phân tích trở nên phức tạp và tốn nhiều công sức. Đặc biệt, việc phân loại cảm xúc từ các bài viết và tin tức tài chính đóng vai trò quan trọng trong việc dự đoán xu hướng thị trường và đưa ra các quyết định đầu tư chính xác.
+
+Sự phát triển của trí tuệ nhân tạo (AI) và học máy (Machine Learning) đã mở ra những cơ hội mới trong việc tự động hóa quá trình phân tích cảm xúc, giúp tiết kiệm thời gian và nâng cao độ chính xác. Dự án này được thực hiện với mục tiêu xây dựng một mô hình AI có khả năng tự động phân tích và phân loại cảm xúc từ các bài viết về tin tức tài chính, từ đó hỗ trợ các nhà đầu tư trong việc đưa ra quyết định hiệu quả hơn.
